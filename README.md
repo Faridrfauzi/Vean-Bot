@@ -2,7 +2,7 @@
 <h1 align="center">そのメイキー<img src="https://i.ibb.co/0VpCRYs/0d3ace574968.webp" width="40px" alt="hi"><br>Bot Team Provider Xploit</h1>
 
 <p align="center">
-<img src="https://a.uguu.se/saEsGJs.webp" width="100%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co/0VpCRYs/0d3ace574968.webp" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **nothing**.
